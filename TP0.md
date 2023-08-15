@@ -10,9 +10,9 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Nahuel Bembo
 
-Descripción
+TP 0 , aprendiendo a usar GIT 
 
 Foto de mi persona:
 
